@@ -5,3 +5,5 @@ age = input("Enter your age: ")
 print(age)
 
 print("hello")
+
+username = input("enter your currnet username: ")
